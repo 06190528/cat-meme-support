@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>猫ミーム大戦争 サポートサイト</title>
+</head>
+<body>
+    <header>
+        <h1>猫ミーム大戦争 サポートサイト</h1>
+    </header>
+    <main>
+        <section>
+            <h2>アプリについて</h2>
+            <p>「猫ミーム大戦争」は、ユーザーが猫のミームを集めて戦わせる楽しいアプリです。</p>
+        </section>
+        <section>
+            <h2>サポート</h2>
+            <p>アプリに関するお問い合わせは、以下のメールアドレスまでお願いします。</p>
+            <a href="mailto:akabe48koukei@gmail.com">akabe48koukei@gmail.com</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 猫ミーム大戦争チーム</p>
+    </footer>
+</body>
+</html>
